@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\bin\Debug\net8.0\MaxSumInSubArrayK.exe
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\bin\Debug\net8.0\MaxSumInSubArrayK.deps.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\bin\Debug\net8.0\MaxSumInSubArrayK.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\bin\Debug\net8.0\MaxSumInSubArrayK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\bin\Debug\net8.0\MaxSumInSubArrayK.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\MaxSumInSubArrayK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\MaxSumInSubArrayK.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\MaxSumInSubArrayK.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\MaxSumInSubArrayK.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\MaxSumInSubArrayK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\refint\MaxSumInSubArrayK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\MaxSumInSubArrayK.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\MaxSumInSubArrayK.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\MaxSumInSubArrayK\obj\Debug\net8.0\ref\MaxSumInSubArrayK.dll
