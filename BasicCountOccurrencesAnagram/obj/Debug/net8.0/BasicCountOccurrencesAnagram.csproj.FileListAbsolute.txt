@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\bin\Debug\net8.0\BasicCountOccurrencesAnagram.exe
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\bin\Debug\net8.0\BasicCountOccurrencesAnagram.deps.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\bin\Debug\net8.0\BasicCountOccurrencesAnagram.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\bin\Debug\net8.0\BasicCountOccurrencesAnagram.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\bin\Debug\net8.0\BasicCountOccurrencesAnagram.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\refint\BasicCountOccurrencesAnagram.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\BasicCountOccurrencesAnagram.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicCountOccurrencesAnagram\obj\Debug\net8.0\ref\BasicCountOccurrencesAnagram.dll
