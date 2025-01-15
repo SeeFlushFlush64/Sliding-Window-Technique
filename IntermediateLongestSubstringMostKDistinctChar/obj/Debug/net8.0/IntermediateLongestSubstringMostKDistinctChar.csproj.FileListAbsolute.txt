@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\bin\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.exe
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\bin\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.deps.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\bin\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\bin\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\bin\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\refint\IntermediateLongestSubstringMostKDistinctChar.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\IntermediateLongestSubstringMostKDistinctChar.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\IntermediateLongestSubstringMostKDistinctChar\obj\Debug\net8.0\ref\IntermediateLongestSubstringMostKDistinctChar.dll
