@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\bin\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.exe
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\bin\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.deps.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\bin\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\bin\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\bin\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\refint\EfficientSmallestSubArraySumGreaterEqualK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\EfficientSmallestSubArraySumGreaterEqualK.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\EfficientSmallestSubArraySumGreaterEqualK\obj\Debug\net8.0\ref\EfficientSmallestSubArraySumGreaterEqualK.dll
