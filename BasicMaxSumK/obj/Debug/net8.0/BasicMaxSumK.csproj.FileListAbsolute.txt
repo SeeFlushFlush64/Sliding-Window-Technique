@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\bin\Debug\net8.0\BasicMaxSumK.exe
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\bin\Debug\net8.0\BasicMaxSumK.deps.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\bin\Debug\net8.0\BasicMaxSumK.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\bin\Debug\net8.0\BasicMaxSumK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\bin\Debug\net8.0\BasicMaxSumK.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\refint\BasicMaxSumK.dll
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.pdb
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\BasicMaxSumK.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\Sliding-Window-Technique\BasicMaxSumK\obj\Debug\net8.0\ref\BasicMaxSumK.dll
